@@ -86,6 +86,3 @@
 
 [![@rodhisz's Holopin board](https://holopin.me/rodhisz)](https://holopin.io/@rodhisz)
 -->
-
-Credit: <a href="https://github.com/rodhisz" target="blank">Rodhisz</a> 
-
