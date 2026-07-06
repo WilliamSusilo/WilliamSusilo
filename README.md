@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm William Susilo 👋</h1>
-  <h3>Software Engineer focused on Backend, Cloud, and useful digital products</h3>
+  <h3>Cloud Engineer focused on Google Cloud, backend APIs, and scalable software deployment</h3>
   <p>
     <a href="mailto:williamsusilo2827@gmail.com">Email</a> ·
     <a href="https://github.com/WilliamSusilo">GitHub</a> ·
