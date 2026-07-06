@@ -1,88 +1,454 @@
-<h1>Hi there, I'm William Susilo 👋</h1>
+<div align="center">
 
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/rodhisz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rodhisz)
-[![Github Follow](https://img.shields.io/github/followers/rodhisz?label=Followers&logo=Github&style=for-the-badge)](https://github.com/rodhisz)
-<!-- [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCi8IEJr4icIe2Lex_OcxxEw?style=social)](https://www.youtube.com/channel/UCi8IEJr4icIe2Lex_OcxxEw) -->
+<h1>Hi, I am William Susilo 👋</h1>
 
-## I'm a Student and Software Engineer!!!
+<h3>Informatics Engineering Graduate | Software Engineer | Cloud and Backend Builder</h3>
 
-•	🇮🇩 <br>
-•	👨🏻‍💻 20 <br>
-•	🏢 Student in Kwik Kian Gie School of Business <br>
-•	🥅 Currently Learning on Web Development <br>
-• 🔗 Reach Me: williamsusilo2827@gmail.com <br>
-
-<!--[![wakatime](https://wakatime.com/badge/user/8ba534c7-3602-4395-a277-60e69c45eb75.svg)](https://wakatime.com/@8ba534c7-3602-4395-a277-60e69c45eb75)-->
-
-<!-- ### 💻  My Gear :
-
-<img width="150px" src="https://img.shields.io/badge/HP-Pavilion Laptop 14-ec0xxx" style="for-the-badge&logo=apple&logoColor=white"/> -->
-
-### 🔥 Skills :
-
-<p align="left">
-<h3>Web</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /></a>
-<!--<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a> -->
-<h3>Mobile</h3>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<h3>Backend & Database</h3>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<h3>Design</h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<!--<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>-->
+<p>
+I build reliable backend systems, cloud based services, and practical digital products that solve real user problems.
 </p>
 
-
-### 🔗 Connect with me :
-
-<p align="left">
-<!--<a href="https://dev.to/rodhisz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rodhisz" height="30" width="40" /></a> 
-<a href="https://twitter.com/fltrdrt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fltrdrt" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/william-susilo-ws810/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="William Susilo" height="30" width="40" /></a>
-<!--<a href="https://fb.com/rodhishafia.zaidan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="William Susilo" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/william.susilo/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="William Susilo" height="30" width="40" /></a>
-<!--<a href="https://medium.com/@rodhisz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rodhisz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rodhi shafia zaidan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodhi shafia zaidan" height="30" width="40" /></a>
-<a href="https://discord.com/users/rodhisz#2676" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/16866816" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p>
+<a href="mailto:williamsusilo2827@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/WilliamSusilo">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/william%2Dsusilo%2Dws810/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://williamsusilo.pages.dev">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="https://www.instagram.com/william.susilo/">Instagram</a>
 </p>
--->
 
-<!--### 🎖️ Badges :
+<p>
+<kbd>Jakarta, Indonesia</kbd>
+&nbsp;
+<kbd>Cloud Computing</kbd>
+&nbsp;
+<kbd>Backend Development</kbd>
+&nbsp;
+<kbd>Software Engineering</kbd>
+&nbsp;
+<kbd>DevOps Mindset</kbd>
+</p>
 
-<div>
-  <a href="https://www.cloudskillsboost.google/public_profiles/1bd306d1-632c-4569-991e-2cb1087a4e11" target="_blank">
-      <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="90" height="90" />
-  </a>
-  <a href="https://www.credly.com/badges/a268142a-ac33-426d-ae8b-07001fb17fe4/linked_in?t=rcp5bz" target="_blank">
-      <img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="90" height="90" />
-  </a>
-  <a href="https://dev.to/rodhisz" target="_blank">
-      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="90" height="90" />
-  </a>
-  <a href="https://dev.to/rodhisz" target="_blank">
-      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="90" height="90" />
-  </a>
 </div>
--->
 
-<!--### ✨ My Footstep :
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodhisz&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodhisz&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodhisz&theme=default)<br>
-<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">By vn7n24fzkq</a> -->
+<br>
 
-<!--### ☕ Buy Me a Coffee :
-<a href="https://saweria.co/rodhisz" target="_blank">
-      <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicken_money.a24d8223.svg&w=828&q=75" width="200"/>
-</a>
+<details open>
+<summary><b>⚡ Quick Recruiter Snapshot</b></summary>
 
-[![@rodhisz's Holopin board](https://holopin.me/rodhisz)](https://holopin.io/@rodhisz)
--->
+<br>
+
+<table>
+<tr>
+<td><b>Current Profile</b></td>
+<td>Informatics Engineering Graduate with strong interest in Cloud Computing, Software Engineering, Backend Development, and DevOps.</td>
+</tr>
+<tr>
+<td><b>Education</b></td>
+<td>Bachelor of Informatics Engineering, Institut Bisnis dan Informatika Kwik Kian Gie, GPA 3.97.</td>
+</tr>
+<tr>
+<td><b>Practical Experience</b></td>
+<td>Backend Developer, Software Engineer, and Cloud Computing Cohort with experience in APIs, cloud deployment, testing, and web based systems.</td>
+</tr>
+<tr>
+<td><b>Career Direction</b></td>
+<td>Software Engineer, Backend Engineer, Cloud Engineer, or DevOps Engineer.</td>
+</tr>
+<tr>
+<td><b>Work Style</b></td>
+<td>Fast learner, analytical, collaborative, growth oriented, and comfortable learning new technologies.</td>
+</tr>
+<tr>
+<td><b>Long Term Vision</b></td>
+<td>Build meaningful technology products and grow toward founding a technology company.</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<h2>🧭 About Me</h2>
+
+<p>
+I am a technology driven Software Engineer with hands on experience in backend development, cloud computing, and web application development. I enjoy turning ideas into structured systems, building APIs, designing data flows, and exploring how cloud infrastructure can make applications more scalable and reliable.
+</p>
+
+<p>
+My professional interest is centered on <b>software engineering, cloud platforms, backend architecture, digital product development, and practical innovation</b>. I value continuous learning, clean implementation, teamwork, and technology that creates real impact.
+</p>
+
+<br>
+
+<h2>🛠️ Tech Toolbox</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,java,php,dart,kotlin,cs,gcp,docker,kubernetes,terraform,linux,bash,nginx,git,github,firebase,postman,nodejs,express,flask,spring,react,tailwind,flutter,mysql,supabase,figma" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td><b>Programming</b></td>
+<td>Python, JavaScript, Java, PHP, Dart, Kotlin, C#</td>
+</tr>
+<tr>
+<td><b>Cloud and DevOps</b></td>
+<td>Google Cloud Platform, Docker, Kubernetes, Terraform, Linux, Bash, Nginx, Apache, Firebase, Git, GitHub, Postman</td>
+</tr>
+<tr>
+<td><b>Frameworks and Libraries</b></td>
+<td>Express.js, Flask, Spring Boot, Hapi.js, React.js, Tailwind CSS, Flutter</td>
+</tr>
+<tr>
+<td><b>Database and Platform</b></td>
+<td>MySQL, Firestore, Supabase, XAMPP, Tomcat</td>
+</tr>
+<tr>
+<td><b>Design and Tools</b></td>
+<td>Figma, Visual Studio Code, NetBeans IDE, Android Studio, Enterprise Architect</td>
+</tr>
+</table>
+
+<br>
+
+<h2>💼 Experience Timeline</h2>
+
+<details open>
+<summary><b>Backend Developer</b> | Prabasena Baratawijaya | Freelance | Mar 2025 to Dec 2025</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Scope</b></td>
+<td>Web based accounting platform with integrated finance operations.</td>
+</tr>
+<tr>
+<td><b>Impact</b></td>
+<td>Implemented 8+ core financial modules including Chart of Accounts, Cash and Bank, Sales, Purchases, Inventory, Manufacturing, Expenses, and Assets.</td>
+</tr>
+<tr>
+<td><b>Backend Work</b></td>
+<td>Designed and developed 30+ API endpoints using JavaScript to support reliable data processing and module integration.</td>
+</tr>
+<tr>
+<td><b>Data Platform</b></td>
+<td>Managed Supabase data infrastructure, database design, and backend integration.</td>
+</tr>
+<tr>
+<td><b>Leadership</b></td>
+<td>Coordinated developer tasks and supported technical integration across the team.</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Software Engineer</b> | Astra Honda Motor | Feb 2025 to Jul 2025</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>System Delivery</b></td>
+<td>Drafted and reviewed 8 technical specifications to align system development with user requirements.</td>
+</tr>
+<tr>
+<td><b>Modernization</b></td>
+<td>Modernized 8 legacy finance related systems for time deposit modules by maintaining front end and back end applications.</td>
+</tr>
+<tr>
+<td><b>Quality Work</b></td>
+<td>Debugged and unit tested 16 applications to improve stability and reliability.</td>
+</tr>
+<tr>
+<td><b>Testing Documentation</b></td>
+<td>Created and executed 8 test report forms to validate functional accuracy.</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Cloud Computing Cohort</b> | Bangkit Academy led by Google, GoTo, and Traveloka | Sep 2024 to Dec 2024</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Cloud Backend</b></td>
+<td>Developed and deployed cloud based backend systems with 6+ REST API endpoints.</td>
+</tr>
+<tr>
+<td><b>GCP Services</b></td>
+<td>Used Google Cloud Platform services for backend processing, machine learning workflows, and scalable deployment.</td>
+</tr>
+<tr>
+<td><b>Resource Strategy</b></td>
+<td>Designed cloud architecture with efficient resource allocation in a limited 150 GCP credit environment.</td>
+</tr>
+<tr>
+<td><b>Team Role</b></td>
+<td>Led technical development in a 6 member capstone team.</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<h2>🚀 Featured Projects</h2>
+
+<details open>
+<summary><b>SpeechEase</b> | Cloud Backend for Personalized Speech Practice</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Stack</b></td>
+<td>Google Cloud, Node.js, Express.js, Flask, Firebase Authentication, Firestore, App Engine, Cloud Run</td>
+</tr>
+<tr>
+<td><b>Problem</b></td>
+<td>Support a mobile learning application with secure authentication, machine learning API communication, and scalable backend services.</td>
+</tr>
+<tr>
+<td><b>Contribution</b></td>
+<td>Implemented cloud optimized backend services and tested REST APIs for reliable communication between mobile app and cloud services.</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Piru Application</b> | Room Lending Management System</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Stack</b></td>
+<td>HTML, CSS, JavaScript, PHP, MySQL</td>
+</tr>
+<tr>
+<td><b>Problem</b></td>
+<td>Improve room booking and borrowing process at Kwik Kian Gie School of Business.</td>
+</tr>
+<tr>
+<td><b>Contribution</b></td>
+<td>Built CRUD features, scheduling, participant tracking, activity request handling, and loan request dashboard.</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>NotedGo</b> | Notes, Mood, and Habit Tracking Web App</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Stack</b></td>
+<td>PHP, MySQL, Tailwind CSS</td>
+</tr>
+<tr>
+<td><b>Problem</b></td>
+<td>Create a personal productivity tool that combines note taking, habit tracking, and mood reflection.</td>
+</tr>
+<tr>
+<td><b>Contribution</b></td>
+<td>Built mood based note categorization, dynamic monthly visualization, and habit oriented motivation features.</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>planT</b> | Hackfest 2024 Top 50 Project</summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Focus</b></td>
+<td>Mobile application designed to optimize plant growth and crop yield while supporting sustainability.</td>
+</tr>
+<tr>
+<td><b>Achievement</b></td>
+<td>Ranked Top 50 at Hackfest 2024 by Google Developer Student Clubs Indonesia.</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<h2>🎓 Education and Learning</h2>
+
+<table>
+<tr>
+<td><b>Bachelor Degree</b></td>
+<td>Informatics Engineering, Institut Bisnis dan Informatika Kwik Kian Gie</td>
+</tr>
+<tr>
+<td><b>GPA</b></td>
+<td>3.97</td>
+</tr>
+<tr>
+<td><b>Scholarship</b></td>
+<td>Adaro Foundation Scholarship Awardee for 2023/2024, 2024/2025, and 2025/2026</td>
+</tr>
+<tr>
+<td><b>Program</b></td>
+<td>Bangkit Academy Cloud Computing Path</td>
+</tr>
+<tr>
+<td><b>Challenge</b></td>
+<td>Google Solution Challenge 2024 participant</td>
+</tr>
+</table>
+
+<br>
+
+<h2>🏅 Certifications and Awards</h2>
+
+<details open>
+<summary><b>Certifications</b></summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Jun 2025</b></td>
+<td>Dicoding, Become a Google Cloud Architect</td>
+</tr>
+<tr>
+<td><b>May 2025</b></td>
+<td>Google Cloud, Associate Cloud Engineer Certification</td>
+</tr>
+<tr>
+<td><b>Jan 2025</b></td>
+<td>Google Cybersecurity Professional Certificate by Coursera</td>
+</tr>
+<tr>
+<td><b>Dec 2024</b></td>
+<td>Dicoding, Learn to Implement Machine Learning with Google Cloud</td>
+</tr>
+<tr>
+<td><b>Oct 2024</b></td>
+<td>Google Cloud Computing Foundations Certificate</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Awards</b></summary>
+
+<br>
+
+<table>
+<tr>
+<td><b>Cloud Distinction Graduate</b></td>
+<td>Selected as one of 147 Distinction Graduates from 1,483 Bangkit Academy Cloud Computing participants.</td>
+</tr>
+<tr>
+<td><b>Top 50 Hackfest 2024</b></td>
+<td>Ranked Top 50 by Google Developer Student Clubs Indonesia through the planT mobile application.</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<h2>🤝 Leadership and Community</h2>
+
+<table>
+<tr>
+<td><b>Google Developer Student Clubs IBIKKG</b></td>
+<td>Co Lead, supervised Events, Curriculum, and Media divisions while supporting Flutter and Machine Learning Study Jam programs.</td>
+</tr>
+<tr>
+<td><b>Informatics Community</b></td>
+<td>General Secretary, managed organizational documentation and communication support.</td>
+</tr>
+<tr>
+<td><b>GDG DevFest Depok 2024</b></td>
+<td>Front of House Crew, supported multimedia operations for sessions attended by 100+ participants.</td>
+</tr>
+</table>
+
+<br>
+
+<h2>📌 2026 Focus Areas</h2>
+
+<table>
+<tr>
+<td><b>Technical Growth</b></td>
+<td>Backend architecture, cloud native deployment, DevOps workflow, scalable APIs, and production ready systems.</td>
+</tr>
+<tr>
+<td><b>Professional Growth</b></td>
+<td>Clearer technical storytelling, stronger English communication, and structured project explanation.</td>
+</tr>
+<tr>
+<td><b>Product Mindset</b></td>
+<td>Build technology that solves practical problems and creates meaningful impact.</td>
+</tr>
+</table>
+
+<br>
+
+<h2>🌐 Languages</h2>
+
+<table>
+<tr>
+<td><b>Indonesian</b></td>
+<td>Native proficiency</td>
+</tr>
+<tr>
+<td><b>English</b></td>
+<td>Professional working proficiency</td>
+</tr>
+<tr>
+<td><b>Chinese</b></td>
+<td>Elementary proficiency</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>📫 Let us Connect</h2>
+
+<p>
+I am open to collaboration, software engineering opportunities, cloud projects, and technology communities.
+</p>
+
+<p>
+<a href="mailto:williamsusilo2827@gmail.com">Email Me</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/WilliamSusilo">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/william%2Dsusilo%2Dws810/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://williamsusilo.pages.dev">Portfolio</a>
+</p>
+
+<p>
+<b>Build. Learn. Improve. Repeat.</b>
+</p>
+
+</div>
